@@ -1,0 +1,14 @@
+c:\C#Projects\bin\Debug\net8.0\C#Projects.exe
+c:\C#Projects\bin\Debug\net8.0\C#Projects.deps.json
+c:\C#Projects\bin\Debug\net8.0\C#Projects.runtimeconfig.json
+c:\C#Projects\bin\Debug\net8.0\C#Projects.dll
+c:\C#Projects\bin\Debug\net8.0\C#Projects.pdb
+c:\C#Projects\obj\Debug\net8.0\C#Projects.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#Projects\obj\Debug\net8.0\C#Projects.AssemblyInfoInputs.cache
+c:\C#Projects\obj\Debug\net8.0\C#Projects.AssemblyInfo.cs
+c:\C#Projects\obj\Debug\net8.0\C#Projects.csproj.CoreCompileInputs.cache
+c:\C#Projects\obj\Debug\net8.0\C#Projects.dll
+c:\C#Projects\obj\Debug\net8.0\refint\C#Projects.dll
+c:\C#Projects\obj\Debug\net8.0\C#Projects.pdb
+c:\C#Projects\obj\Debug\net8.0\C#Projects.genruntimeconfig.cache
+c:\C#Projects\obj\Debug\net8.0\ref\C#Projects.dll
