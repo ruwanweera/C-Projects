@@ -18,7 +18,8 @@ namespace TestProject;
 
         public Employee(string argEmpNo,string argFirstName, int argAge, int argCategory, int argBasicSalary)
 
-        {
+        { 
+            //This is a constructor for the Employee class
             EmpNo=argEmpNo;
             FirstName=argFirstName;
        
@@ -28,6 +29,10 @@ namespace TestProject;
             Console.WriteLine(EmpNo + " Belongs to " + FirstName +"\n");
         }
 
+        public void PrintDetails()
+        {
+            Console.WriteLine(" print Employ details");
+        }
         
 
 
